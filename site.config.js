@@ -12,7 +12,9 @@ const CONFIG = {
   },
   projects: [
     {
-    }
+      name: ``,
+      href: "",
+    },
   ],
   // blog setting (required)
   blog: {
