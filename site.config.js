@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `Daeun Blog`,
+      href: "https://github.com/blurrydaydreams/morethan-log",
     },
   ],
   // blog setting (required)
