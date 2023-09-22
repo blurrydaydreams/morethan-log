@@ -11,15 +11,12 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: '',
-      href: "",
-    },
+    
   ],
   // blog setting (required)
   blog: {
     title: "닿은의 블로그",
-    description: "welcome to morethan-log!",
+    description: "Hey there! You've reached here.",
   },
 
   // CONFIG configration (required)
